@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="com.bolsadeideas.tarea4.hibernate.models.entity.Curso" table="cursos">
+    <id name="id" type="int">
+      <generator class="increment"/>
+    </id>
+    <property name="nombre" type="string"/>
+    <property column="fecha_inicio" name="fechaInicio" type="date"/>
+  </class>
+</hibernate-mapping>

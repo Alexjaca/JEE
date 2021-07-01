@@ -1,0 +1,15 @@
+SMAP
+crearFrom_jsp.java
+JSP
+*S JSP
+*F
++ 0 crearFrom.jsp
+WEB-INF/vistas/crearFrom.jsp
+*L
+2,3:45
+4,8:48
+12:56,3
+13,8:59
+21,2:67,3
+23,31:73
+*E

@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<title>Index of /schema/context</title>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"b5ae5662a40dc6a273a402044730ae3a",petok:"859afc59281045dea7d2aa33d207d88d12d1c096-1449094177-1800",zone:"springframework.org",rocket:"0",apps:{},sha2test:1}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=38857570ac/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+</head>
+<body>
+<h1>Index of /schema/context</h1>
+<ul><li><a href="/schema/"> Parent Directory</a></li>
+<li><a href="spring-context-2.5.xsd"> spring-context-2.5.xsd</a></li>
+<li><a href="spring-context-3.0.xsd"> spring-context-3.0.xsd</a></li>
+<li><a href="spring-context-3.1.xsd"> spring-context-3.1.xsd</a></li>
+<li><a href="spring-context-3.2.xsd"> spring-context-3.2.xsd</a></li>
+<li><a href="spring-context-4.0.xsd"> spring-context-4.0.xsd</a></li>
+<li><a href="spring-context-4.1.xsd"> spring-context-4.1.xsd</a></li>
+<li><a href="spring-context-4.2.xsd"> spring-context-4.2.xsd</a></li>
+<li><a href="spring-context.xsd"> spring-context.xsd</a></li>
+</ul>
+<address>Apache/2.2.3 (CentOS) Server at www.springframework.org Port 80</address>
+</body></html>
